@@ -9,7 +9,7 @@ a multi-layered security system designed to protect access to web-based resource
    - Start the local server
 
 The system is easy to use and has a simple interface:
-![Image Alt Text](https://github.com/MarijaDodevska/ThreeLevelPasswordAuthentication/blob/main/img/log1.jpg?raw=true)
+![Image Alt Text](https://github.com/MarijaDodevska/ThreeLevelPasswordAuthentication/blob/main/img/homepage.jpg?raw=true)
 
 ## User Registration
 
