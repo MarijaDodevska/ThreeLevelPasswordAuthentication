@@ -9,16 +9,16 @@ a multi-layered security system designed to protect access to web-based resource
    - Start the local server
 
 The system is easy to use and has a simple interface:
-![Image Alt Text](C:\Users\PC\Desktop\three-levelpassword\img\homepage.jpg)
+![Image Alt Text](https://github.com/MarijaDodevska/ThreeLevelPasswordAuthentication/blob/main/img/log1.jpg?raw=true)
 
 ## User Registration
 
 
-![Image Alt Text](C:\Users\PC\Desktop\three-levelpassword\img\reg1.jpg)
-![Image Alt Text](C:\Users\PC\Desktop\three-levelpassword\img\reg2.jpg)
-![Image Alt Text](C:\Users\PC\Desktop\three-levelpassword\img\reg3.jpg)
+![Image Alt Text](https://github.com/MarijaDodevska/ThreeLevelPasswordAuthentication/blob/main/img/reg1.jpg?raw=true)
+![Image Alt Text](https://github.com/MarijaDodevska/ThreeLevelPasswordAuthentication/blob/main/img/reg2.jpg?raw=true)
+![Image Alt Text](https://github.com/MarijaDodevska/ThreeLevelPasswordAuthentication/blob/main/img/reg3.jpg?raw=true)
 
 ## User Login
-![Image Alt Text](C:\Users\PC\Desktop\three-levelpassword\img\log1.jpg)
-![Image Alt Text](C:\Users\PC\Desktop\three-levelpassword\img\log2.jpg)
-![Image Alt Text](C:\Users\PC\Desktop\three-levelpassword\img\log3.jpg)
+![Image Alt Text](https://github.com/MarijaDodevska/ThreeLevelPasswordAuthentication/blob/main/img/log1.jpg?raw=true)
+![Image Alt Text](https://github.com/MarijaDodevska/ThreeLevelPasswordAuthentication/blob/main/img/reg2.jpg?raw=true)
+![Image Alt Text](https://github.com/MarijaDodevska/ThreeLevelPasswordAuthentication/blob/main/img/reg3.jpg?raw=true)
