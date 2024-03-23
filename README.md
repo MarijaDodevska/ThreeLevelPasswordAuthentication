@@ -20,5 +20,5 @@ The system is easy to use and has a simple interface:
 
 ## User Login
 ![Image Alt Text](https://github.com/MarijaDodevska/ThreeLevelPasswordAuthentication/blob/main/img/log1.jpg?raw=true)
-![Image Alt Text](https://github.com/MarijaDodevska/ThreeLevelPasswordAuthentication/blob/main/img/reg2.jpg?raw=true)
-![Image Alt Text](https://github.com/MarijaDodevska/ThreeLevelPasswordAuthentication/blob/main/img/reg3.jpg?raw=true)
+![Image Alt Text](https://github.com/MarijaDodevska/ThreeLevelPasswordAuthentication/blob/main/img/log2.jpg?raw=true)
+![Image Alt Text](https://github.com/MarijaDodevska/ThreeLevelPasswordAuthentication/blob/main/img/log3.jpg?raw=true)
